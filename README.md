@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola 👋
+
+Me llamo Kyrylo y soy un estudiante del grado en Ingeniería Informática de la ULL.
 
 <!--
 **Kyrylo-Chvanov/Kyrylo-Chvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
